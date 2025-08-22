@@ -103,18 +103,14 @@ A company needs to investigate excessive non-work related internet usage during 
 ### Technical Challenges
 - **Database Complexity**: Handling SQLite database structures and relationships
 - **Timestamp Analysis**: Dealing with different time formats and conversions
-- **Data Correlation**: Combining multiple data sources for comprehensive analysis
-- **Volume Management**: Processing large volumes of browsing history data
 
 ### Forensic Considerations
 - **Evidence Integrity**: Maintaining database integrity during analysis
 - **Privacy Concerns**: Handling personal browsing data appropriately
 - **Legal Compliance**: Ensuring analysis complies with privacy regulations
-- **Documentation**: Comprehensive recording of analysis procedures
+- **Documentation**:  Recording of analysis procedures
 
 ### Operational Challenges
-- **Data Volume**: Managing large browsing history datasets efficiently
-- **Analysis Depth**: Balancing thoroughness with investigation timelines
 - **Pattern Recognition**: Identifying meaningful patterns in browsing data
 - **Reporting**: Creating actionable reports from complex data
 
@@ -123,8 +119,6 @@ A company needs to investigate excessive non-work related internet usage during 
 ## Reflections
 
 ### Technical Learnings
-- **SQLite Analysis**: Mastered browser database examination techniques
-- **Web Artifacts**: Developed expertise in browser artifact analysis
 - **Pattern Recognition**: Enhanced skills in identifying browsing patterns
 - **Forensic Tools**: Gained proficiency with web history analysis tools
 
@@ -156,3 +150,38 @@ A company needs to investigate excessive non-work related internet usage during 
 ```bash
 # Transfer browser database from target system
 scp user@target:/path/to/firefox/profile/places.sqlite .
+```
+
+2. **Autopsy Case Setup**
+```bash
+# Launch Autopsy and create new case
+# Configure case metadata and storage locations
+```
+
+3. **Data Source Configuration**
+```bash
+# Add browser database as data source
+# Select appropriate file type and settings
+# Configure timestamp analysis parameters
+```
+
+4. **Ingest Module Setup**
+```bash
+# Enable web history analysis modules
+# Configure keyword search and pattern matching
+# Set up email address extraction
+```
+
+5. **Analysis Execution**
+```bash
+# Perform comprehensive web history analysis
+# Examine browsing patterns and timelines
+# Identify policy violations and patterns
+```
+
+6. **Reporting Generation**
+```bash
+# Generate detailed forensic reports
+# Document findings and evidence
+# Prepare compliance violation documentation
+```
