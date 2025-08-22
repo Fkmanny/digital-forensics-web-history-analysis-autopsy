@@ -80,15 +80,7 @@ A company needs to investigate excessive non-work related internet usage during 
 ![Email Discovery](screenshots/email-discovery.png)
 *Email address identification and extraction*
 
-### 6. Timeline Analysis
-- Conducted temporal analysis of web browsing activity
-- Correlated timestamps with work hours and patterns
-- Identified patterns of unauthorized website access
-
-![Timeline Analysis](screenshots/timeline-analysis.png)
-*Temporal analysis of browsing activity*
-
-### 7. Forensic Reporting
+### 6. Forensic Reporting
 - Generated comprehensive forensic reports
 - Documented evidence chain of custody
 - Prepared findings for legal proceedings
