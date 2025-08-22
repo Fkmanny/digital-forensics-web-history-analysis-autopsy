@@ -80,7 +80,7 @@ A company needs to investigate excessive non-work related internet usage during 
 ![Email Discovery](screenshots/email-discovery.png)
 *Email address identification and extraction*
 
-### 6. Forensic Reporting
+### 7. Forensic Reporting
 - Generated comprehensive forensic reports
 - Documented evidence chain of custody
 - Prepared findings for legal proceedings
